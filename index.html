@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="jumbotron">
+	<p class="lead">I am Karsten Jeschkies</p>
+	<p>Welcome to my</p>
+    <h1 style="font-family: 'PT Mono', sans-serif; color:#f02975;">Portfolio</h1>
+</div>
+
+<hr>
+
+<!-- about me -->
+<div class="row-fluid marketing">
+	<div class="span12" id="about">
+	    <h3 style="font-family: 'PT Mono', sans-serif;">About Me</h3>
+	    {% capture about_content %}
+	    	{% include about_me.md %}
+  		{% endcapture %}
+  		{{ about_content | markdownify }}
+	</div>
+</div>
+
+<!-- headline -->
+<div class="row-fluid" id="projects">
+	<div class="span12">
+	    <h3 style="font-family: 'PT Mono', sans-serif;">Projects, Studies, Experiments, Research</h3>
+	</div>
+</div>
+
+<!-- projects etc. -->
+<div class="row-fluid">
+	{% for post in site.posts limit:2 %}
+    <div class="span6">
+    	<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    	<p style="text-align: justify;">{{ post.summary }}</p>
+    	<small>{{ post.tags | array_to_sentence_string }}</small>
+    </div>
+    {% endfor %}	
+</div>
+
+<div class="row-fluid">
+	{% for post in site.posts offset:2 limit:2 %}
+    <div class="span6" style="margin-top: 16pt;">
+    	<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    	<p style="text-align: justify;">{{ post.summary }}</p>
+    	<small>{{ post.tags | array_to_sentence_string }}</small>
+    </div>
+    {% endfor %}	
+</div>
+
+<div class="row-fluid">
+	{% for post in site.posts offset:4 limit:2 %}
+    <div class="span6" style="margin-top: 16pt;">
+    	<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    	<p style="text-align: justify;">{{ post.summary }}</p>
+    	<small>{{ post.tags | array_to_sentence_string }}</small>
+    </div>
+    {% endfor %}	
+</div>
