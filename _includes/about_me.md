@@ -20,4 +20,4 @@ In 2008 I co-founded the game development company [Z-Software](http://www.z-soft
 
 In my spare time I work on the [A Picture of War](http://www.apictureofwar.org) project which I started with my brother and friends of ours in 2011. The same year we founded lichtspiel productions to handle the business elements of the project.
 
-Find out more about me in my [CV]({{ site.url }}/downloads/Karsten_Jeschkies_CV.pdf), from the projects below and [here](http://blackmagiclabs.com/gitlist/).
+Find out more about me in my [CV]({{ site.url }}/downloads/CV_Karsten_Jeschkies.pdf), from the projects below and [here](http://blackmagiclabs.com/gitlist/).
