@@ -1,3 +1,24 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I am a Software Engineer from Berlin, Germany.
+
+I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
+
+Right now I am working in a Machine Learning team at Amazon.
+
+I love to program in Python and Scala. My fields of expertise are <abbr title="Natural Language Processing" class="initialism">NLP</abbr>, learning from big data, and server architectures.
+
+In 2008 I co-founded the game development company [Z-Software](http://www.z-software.net).
+
+In my spare time I work on the [A Picture of War](http://www.apictureofwar.org) project which I started with my brother and friends of ours in 2011. The same year we founded lichtspiel productions to handle the business elements of the project.
+
+Find out more about me in my [CV]({{ site.url }}/downloads/CV_Karsten_Jeschkies.pdf), from the projects below and [here](http://blackmagiclabs.com/gitlist/).
+
+#Contact
 
 <address id="contact" class="well">
   <strong>Karsten Jeschkies</strong><br>
@@ -7,17 +28,3 @@
   <div><a href="https://github.com/blacklab">GitHub</a></div>
   <div><a href="http://www.linkedin.com/pub/karsten-jeschkies/36/50/a73">LinkedIn</a></div>
 </address>
-
-<p class="lead">I am a Software Engineer from Berlin, Germany.</p>
-
-I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
-
-Right now I am working in a Machine Learning team at Amazon. 
-
-I love to program in Python and Scala. My fields of expertise are <abbr title="Natural Language Processing" class="initialism">NLP</abbr>, learning from big data, and server architectures.
-
-In 2008 I co-founded the game development company [Z-Software](http://www.z-software.net).
-
-In my spare time I work on the [A Picture of War](http://www.apictureofwar.org) project which I started with my brother and friends of ours in 2011. The same year we founded lichtspiel productions to handle the business elements of the project.
-
-Find out more about me in my [CV]({{ site.url }}/downloads/CV_Karsten_Jeschkies.pdf), from the projects below and [here](http://blackmagiclabs.com/gitlist/).

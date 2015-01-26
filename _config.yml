@@ -1,4 +1,4 @@
-#permalink: "work/:title.html"
+permalink: ":year/:title.html"
 #auto: true
 exclude:
   - deploy.sh
@@ -10,7 +10,7 @@ highlighter: pygments
 # Site settings
 title: "Karsten Jeschkies"
 description: > # this means to ignore newlines until "email:"
-   Just Stuff I Do
+   Just a Page About Stuff I Do
 
 #blog logo
 logo: "/assets/images/df_logo.jpg"
