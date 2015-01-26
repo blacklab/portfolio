@@ -1,5 +1,26 @@
-permalink: "work/:title.html" 
+#permalink: "work/:title.html"
 #auto: true
+exclude:
+  - deploy.sh
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "Karsten Jeschkies"
+description: > # this means to ignore newlines until "email:"
+   Just Stuff I Do
+
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Karsten Jeschkies'
+author: 'Karsten Jeschkies'
+author_image: "/assets/images/author.jpg"
+
+
 url: "http://www.blackmagiclabs.com/portfolio"
-#url: "http://127.0.0.1:4000"
-exclude: deploy.sh
+baseurl: ""
