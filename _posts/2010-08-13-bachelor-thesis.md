@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Bachelor's Thesis: Offline BRDF Computation for Microscale Volumes"
 tags: [Study, Research]
 summary: "In this thesis I implemented algorithms to pre-calculate the behaviour of light in microscale magnitudes which can be described by Bidirectional Reflectance Distribution Functions (BRDF)."

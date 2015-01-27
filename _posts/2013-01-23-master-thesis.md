@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: post
 title: "Master's Thesis: \n News Filtering Based on Intrinsic User Feedback and a Modified ESA Model"
 tags: [Study, Research]
 summary: "In this thesis I implemented a recommendation engine that filters top news of the day."
