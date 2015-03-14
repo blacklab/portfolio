@@ -26,38 +26,9 @@ You can download or fork the complete source code [here](https://github.com/blac
 . 
 
 #### Front End Screenshots
-<ul class="thumbnails">
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/login.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="Login" src="{{ site.url }}/assets/img/login.png">
-    </a>
-  </li>
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/change_password.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="Change Password" src="{{ site.url }}/assets/img/change_password.png">
-    </a>
-  </li>
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/all_news_hidden_read.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="All News" src="{{ site.url }}/assets/img/all_news_hidden_read.png">
-    </a>
-  </li>
-</ul>
-
-<ul class="thumbnails">
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/manage_subscriptions.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="Manage Subscriptions" src="{{ site.url }}/assets/img/manage_subscriptions.png">
-    </a>
-  </li>
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/top_news.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="Top News" src="{{ site.url }}/assets/img/top_news.png">
-    </a>
-  </li>
-  <li class="span4">
-    <a href="{{ site.url }}/assets/img/reading_view.png" class="thumbnail">
-      <img data-src="holder.js/300x200" alt="Top News" src="{{ site.url }}/assets/img/reading_view.png">
-    </a>
-  </li>
-</ul>
+![Login]({{ site.url }}/assets/img/login.png "Login")
+![Password]({{ site.url }}/assets/img/change_password.png "Change Password")
+![All News]({{ site.url }}/assets/img/all_news_hidden_read.png "All News")
+![Manage Subscriptions]({{ site.url }}/assets/img/manage_subscriptions.png "Manage Subscriptions")
+![Top News]({{ site.url }}/assets/img/top_news.png "Top News")
+![Reading View]({{ site.url }}/assets/img/reading_view.png "Reading View")
