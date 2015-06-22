@@ -1,26 +1,22 @@
-permalink: ":year/:title.html"
-#auto: true
-exclude:
-  - deploy.sh
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-# Build settings
-markdown: redcarpet
-highlighter: pygments
+# Setup
+title:               Karsten Jeschkies
+tagline:             'Just a Page About Stuff I Do'
+description:         "I'm a software engineer from Germany who likes to solve complicated problems with simple solutions."
+url:                 'http://blackmagiclabs.com/blog'
+baseurl:             '/blog'
+paginate:            5
 
-# Site settings
-title: "Karsten Jeschkies"
-description: > # this means to ignore newlines until "email:"
-   Just a Page About Stuff I Do
+# About/contact
+author:
+  name:              Karsten Jeschkies
+  url:               https://www.blackmagiclabs.com
+  email:             ''
 
-#blog logo
-logo: "/assets/img/logo.jpg"
-# blog cover
-cover: "/assets/img/DSCN2313.JPG"
-
-name: 'Karsten Jeschkies'
-author: 'Karsten Jeschkies'
-author_image: "/assets/img/author.jpg"
-
-
-url: "http://www.blackmagiclabs.com/portfolio"
-baseurl: ""
+# Custom vars
+version:             1.0.0

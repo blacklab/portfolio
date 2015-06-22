@@ -2,6 +2,7 @@
 layout: post
 title: Marauder's Map
 tags: [Study, Research]
+category: portfolio
 summary: "Marauder's Map is a location based service to unify offline and online identities."
 ---
 ## About
@@ -12,11 +13,11 @@ Our goal was to unify offline and many online identities by having users interac
 I developed the server infrastructure by expanding the XMPP server OpenFire with custom implementations of several [XEPs](http://xmpp.org/xmpp-protocols/xmpp-extensions/). I used [Wokkel](http://wokkel.ik.nu/) which uses [Twisted](http://twistedmatrix.com/trac/) to provide a testing ground for XMPP.
 
 ## Details
-You can find more details in the [paper]({{ site.url }}/downloads/LocationBasedSocialServices.pdf).
+You can find more details in the [paper]({{ site.baseurl }}/downloads/LocationBasedSocialServices.pdf).
 
 The source if available under the MIT License [here](https://github.com/blacklab/Marauders-Map-Server-Component).
 
 ## Screenshots
-![Marauder 1]({{ site.url }}/assets/img/marauder_1.PNG "Marauder 1")
-![Marauder 2]({{ site.url }}/assets/img/marauder_2.PNG "Marauder 2")
-![Marauder 3]({{ site.url }}/assets/img/marauder_3.PNG "Marauder 3")
+![Marauder 1]({{ site.baseurl }}/public/img/marauder_1.PNG "Marauder 1")
+![Marauder 2]({{ site.baseurl }}/public/img/marauder_2.PNG "Marauder 2")
+![Marauder 3]({{ site.baseurl }}/public/img/marauder_3.PNG "Marauder 3")

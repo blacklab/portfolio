@@ -10,7 +10,7 @@ I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and
 
 Right now I am working in a Machine Learning team at Amazon.
 
-I love to program in Python and Scala. My fields of expertise are <abbr title="Natural Language Processing" class="initialism">NLP</abbr>, learning from big data, and server architectures.
+I love to program in Python and Scala and creating products with scientists.
 
 In 2008 I co-founded the game development company [Z-Software](http://www.z-software.net).
 

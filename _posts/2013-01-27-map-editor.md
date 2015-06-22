@@ -2,6 +2,7 @@
 layout: post
 title: Map Editor for Solar Struggle
 tags: [Work]
+category: portfolio
 summary: "I implemented a map editor for Solar Struggle."
 ---
 #### About

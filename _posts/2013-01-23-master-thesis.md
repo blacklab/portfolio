@@ -2,6 +2,7 @@
 layout: post
 title: "Master's Thesis: \n News Filtering Based on Intrinsic User Feedback and a Modified ESA Model"
 tags: [Study, Research]
+category: portfolio
 summary: "In this thesis I implemented a recommendation engine that filters top news of the day."
 ---
 #### Abstract
@@ -22,13 +23,12 @@ I added an implementation of a modified ESA model to gensim.
 
 Some calculations were done on an EC2 instance.
 
-You can download or fork the complete source code [here](https://github.com/blacklab/nyan) and find the thesis [here]({{ site.url }}/downloads/Masters_Thesis_Karsten_Jeschkies.pdf).
-. 
+You can download or fork the complete source code [here](https://github.com/blacklab/nyan) and find the thesis [here]({{ site.baseurl }}/downloads/Masters_Thesis_Karsten_Jeschkies.pdf).
 
 #### Front End Screenshots
-![Login]({{ site.url }}/assets/img/login.png "Login")
-![Password]({{ site.url }}/assets/img/change_password.png "Change Password")
-![All News]({{ site.url }}/assets/img/all_news_hidden_read.png "All News")
-![Manage Subscriptions]({{ site.url }}/assets/img/manage_subscriptions.png "Manage Subscriptions")
-![Top News]({{ site.url }}/assets/img/top_news.png "Top News")
-![Reading View]({{ site.url }}/assets/img/reading_view.png "Reading View")
+![Login]({{ site.baseurl }}/public/img/login.png "Login")
+![Password]({{ site.baseurl }}/public/img/change_password.png "Change Password")
+![All News]({{ site.baseurl }}/public/img/all_news_hidden_read.png "All News")
+![Manage Subscriptions]({{ site.baseurl }}/public/img/manage_subscriptions.png "Manage Subscriptions")
+![Top News]({{ site.baseurl }}/public/img/top_news.png "Top News")
+![Reading View]({{ site.baseurl }}/public/img/reading_view.png "Reading View")

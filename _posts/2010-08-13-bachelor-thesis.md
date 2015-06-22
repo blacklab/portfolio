@@ -2,6 +2,7 @@
 layout: post
 title: "Bachelor's Thesis: Offline BRDF Computation for Microscale Volumes"
 tags: [Study, Research]
+category: portfolio
 summary: "In this thesis I implemented algorithms to pre-calculate the behaviour of light in microscale magnitudes which can be described by Bidirectional Reflectance Distribution Functions (BRDF)."
 ---
 ## Abstract
@@ -14,7 +15,7 @@ A modified Path Tracer named Photon Tracer will be used to compute BRDF data off
 ## Details
 The offline rendering process was implemented for [Voreen](http://voreen.uni-muenster.de/) in C/C++.
 
-You can download the full thesis [here]({{ site.url }}/downloads/Bachelors_Thesis_Karsten_Jeschkies.pdf).
+You can download the full thesis [here]({{ site.baseurl }}/downloads/Bachelors_Thesis_Karsten_Jeschkies.pdf).
 
-![Ray Traced]({{ site.url }}/assets/img/zebra_luma_raytraced.png "Ray Traced")
-![BRDF]({{ site.url }}/assets/img/zebra_brdf_top.png "BRDF")
+![Ray Traced]({{ site.baseurl }}/public/img/zebra_luma_raytraced.png "Ray Traced")
+![BRDF]({{ site.baseurl }}/public/img/zebra_brdf_top.png "BRDF")
