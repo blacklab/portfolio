@@ -5,6 +5,7 @@ tags: [Work]
 category: portfolio
 summary: "I developed the front end and some back end parts using XQuery and JavaScript."
 ---
+{% include base.html %}
 ## About
 For more than a year I helped to build the [National Pruritusdatabase](http://klinikum.uni-muenster.de/index.php?id=5712).
 
@@ -14,5 +15,5 @@ Also, I created a simple and flexible <abbr title="Attribute Based Access Contro
 
 
 ## Screenshots
-![Pruritusdatabase 1]({{ site.baseurl }}/public/img/Pruritus_Database_Datenbank_1.png "Pruritusdatabase 1")
-![Pruritusdatabase 2]({{ site.baseurl }}/public/img/Pruritus_Database_Datenbank_2.png "Pruritusdatabase 2")
+![Pruritusdatabase 1]({{ base }}/public/img/Pruritus_Database_Datenbank_1.png "Pruritusdatabase 1")
+![Pruritusdatabase 2]({{ base }}/public/img/Pruritus_Database_Datenbank_2.png "Pruritusdatabase 2")
