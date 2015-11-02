@@ -8,15 +8,13 @@ I am a Software Engineer from Berlin, Germany.
 
 I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
 
-Right now I am working in a Machine Learning team at Amazon where I helped integrating and speeding up the learning algorihtm of the Amazon Machine learning service.
+Right now I am working in a Machine Learning team at Amazon where I helped integrating and speeding up the learning algorihtm of the Amazon Machine Learning service.
 
 I love to program in Python and Scala and creating products with scientists.
 
 In 2008 I co-founded the game development company [Z-Software](http://www.z-software.net).
 
-In my spare time I work on the [A Picture of War](http://www.apictureofwar.org) project which I started with my brother and friends of ours in 2011. The same year we founded lichtspiel productions to handle the business elements of the project.
-
-Find out more about me in my [CV]({{ site.url }}/downloads/CV_Karsten_Jeschkies.pdf), from the projects below and [here](http://blackmagiclabs.com/gitlist/).
+Find out more about me in my [CV]({{ base }}/blog/downloads/CV_Karsten_Jeschkies.pdf), from the projects [here]({{ base }}/blog/portfolio) and [here](http://blackmagiclabs.com/gitlist/).
 
 #Contact
 
