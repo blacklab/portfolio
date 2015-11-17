@@ -8,7 +8,7 @@ I am a Software Engineer from Berlin, Germany.
 
 I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
 
-Right now I am working in a Machine Learning team at Amazon where I helped integrating and speeding up the learning algorihtm of the Amazon Machine Learning service.
+Right now I am working in a Machine Learning team at Amazon where I helped integrating and speeding up the learning algorithm of the Amazon Machine Learning service.
 
 I love to program in Python and Scala and creating products with scientists.
 
