@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
 ---
 
 This is a short and most probably incomplete collection of my studies and work.
