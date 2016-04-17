@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Map Editor for Solar Struggle
 tags: [Work]
 category: portfolio

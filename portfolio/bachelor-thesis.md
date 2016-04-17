@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: "Bachelor's Thesis: Offline BRDF Computation for Microscale Volumes"
 tags: [Study, Research]
 category: portfolio

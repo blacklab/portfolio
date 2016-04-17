@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Marauder's Map
 tags: [Study, Research]
 category: portfolio

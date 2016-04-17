@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: "Distributed OpenCL"
 tags: [Study, Research]
 category: portfolio

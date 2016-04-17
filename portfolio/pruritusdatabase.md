@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: National Pruritusdatabase for Universitätsklinikum Münster
 tags: [Work]
 category: portfolio
