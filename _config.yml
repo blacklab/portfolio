@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:               Karsten Jeschkies
@@ -10,7 +10,7 @@ tagline:             'Just a Page About Stuff I Do'
 description:         "I'm a software engineer from Germany who likes to solve complicated problems with simple solutions."
 url:                 'http://nosy.one'
 baseurl:             ''
-paginate:            100
+#paginate:            100
 
 # About/contact
 author:
@@ -21,5 +21,3 @@ author:
 # Custom vars
 version:             1.0.0
 markdown:            kramdown
-
-theme: jekyll-theme-cayman
