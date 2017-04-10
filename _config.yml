@@ -3,3 +3,5 @@ permalink: "work/:title.html"
 url: "http://www.blackmagiclabs.com/portfolio"
 #url: "http://127.0.0.1:4000"
 exclude: deploy.sh
+
+theme: jekyll-theme-cayman
