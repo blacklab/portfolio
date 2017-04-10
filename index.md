@@ -16,7 +16,7 @@ In 2008 I co-founded the game development company [Z-Software](http://www.z-soft
 
 Find out more about me in my [CV]({{ base }}/blog/downloads/CV_Karsten_Jeschkies.pdf), from the projects [here]({{ base }}/blog/portfolio) and on [my GitHub page](https://github.com/jeschkies).
 
-#Contact
+<h2>Contact</h2>
 
 <address id="contact" class="well">
   <strong>Karsten Jeschkies</strong><br>
