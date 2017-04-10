@@ -4,11 +4,11 @@ title: About
 permalink: /
 ---
 
-I am a Software Engineer from Berlin, Germany.
+I am a Software Engineer from Hamburg, Germany.
 
 I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
 
-Right now I am working in a Machine Learning team at Amazon where I helped integrating and speeding up the learning algorithm of the Amazon Machine Learning service.
+After a three years at Amazon's core Machine Learning team in Berlin I joined [Mesosphere](https://mesosphere.com/) in Hamburg in 2016 to work on their scheduler [Marathon](https://mesosphere.github.io/marathon/) for [DC/OS](https://dcos.io/).
 
 I love to program in Python and Scala and creating products with scientists.
 
