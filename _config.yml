@@ -6,7 +6,7 @@ title:               Karsten Jeschkies
 tagline:             'Just a Page About Stuff I Do'
 description:         "I'm a software engineer from Germany who likes to solve complicated problems with simple solutions."
 url:                 'http://nosy.one'
-baseurl:             ''
+baseurl:             'portfolio'
 
 # About/contact
 author:
