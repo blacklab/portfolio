@@ -4,6 +4,7 @@ title: About
 permalink: /
 ---
 
+<a name="about">
 I am a Software Engineer from Hamburg, Germany.
 
 I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
@@ -14,9 +15,9 @@ I love to program in Python and Scala and creating products with scientists.
 
 In 2008 I co-founded the game development company [Z-Software](http://www.z-software.net).
 
-Find out more about me in my [CV]({{ base }}/downloads/CV_Karsten_Jeschkies.pdf), from the projects [here]({{ base }}/portfolio) and on [my GitHub page](https://github.com/jeschkies).
+Find out more about me in my [CV]({{ site.baseurl }}{% link /downloads/CV_Karsten_Jeschkies.pdf %}), from the [projects](#projects) and on [my GitHub page](https://github.com/jeschkies).
 
-<h2>Contact</h2>
+<h2 id="contact">Contact</h2>
 
 <address id="contact" class="well">
   <strong>Karsten Jeschkies</strong><br>
@@ -26,3 +27,17 @@ Find out more about me in my [CV]({{ base }}/downloads/CV_Karsten_Jeschkies.pdf)
   <div><a href="https://github.com/jeschkies">GitHub</a></div>
   <div><a href="http://www.linkedin.com/pub/karsten-jeschkies/36/50/a73">LinkedIn</a></div>
 </address>
+
+<h2 id="projects">Projects</h2>
+
+This is a short and most probably incomplete collection of my studies and work.
+You'll find more recent projects such as the unbiased renderer [Turner](https://github.com/turner-renderer/turner)
+on [my GitHub page](https://github.com/jeschkies).
+
+<ul>
+{% for page in site.pages %}
+    {% if page.category == "portfolio" %}
+    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
