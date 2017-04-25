@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<a name="about">
+<a name="about"/>
 I am a Software Engineer from Hamburg, Germany.
 
 I have a bachelor's degree (B.A.) in Philosophy, a bachelor's degree (B.Sc.) and a master's degree (M.Sc.) in Computer Science from the University of Münster, Germany.
